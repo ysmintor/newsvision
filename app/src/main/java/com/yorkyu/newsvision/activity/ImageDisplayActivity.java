@@ -1,4 +1,4 @@
-package com.hhxplaying.neteasedemo.netease.activity;
+package com.yorkyu.newsvision.activity;
 
 import android.content.Context;
 import android.os.Bundle;
